@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.23.2",
+    "eslint-utils": "^1.4.2",
     "lodash": "^4.17.15",
     "react": "^16.9.0",
     "react-color": "^2.17.3",
