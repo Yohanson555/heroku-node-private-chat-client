@@ -1,0 +1,22 @@
+html:root {
+  --color-text-light: #ffffff;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+.app-layout {
+  height: 100%;
+}
+
+.app-header {
+  color: var(--color-text-light);
+}
+
+.app-sidebar-logo {
+  background-color: #002140;
+  height: 60px;
+  margin: 20px 20px 40px 20px;
+}
